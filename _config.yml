@@ -33,6 +33,9 @@ github: fanpengxian
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input:  GFM
+  use_coderay: true
 sass:
   style: compressed
 gems:
