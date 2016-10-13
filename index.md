@@ -7,7 +7,7 @@ layout: default
 
 地址：szzy.qylib.com
 
-## 内容说明
+## 内容目录
 
 - 图书情报
 
@@ -28,9 +28,10 @@ layout: default
 
 - Wechat：GoodnightTimon
 
-- qq：61268306
+- QQ：61268306
 
-- email：fanpengxian@126.com
+- Email：fanpengxian@126.com
+
 
 ## 特别致谢
 
