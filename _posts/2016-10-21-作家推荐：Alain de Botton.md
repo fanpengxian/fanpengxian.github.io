@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 作者推荐：Alain de Botton
+title: 作家推荐：Alain de Botton
 date:  2016-10-21 11:39
 tags:  资源推荐
 ---
