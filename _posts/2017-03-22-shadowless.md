@@ -6,7 +6,7 @@ tags:  资源推荐
 
 ---
 
-<p><img src="/images/shadowless.jpg"                                     small="0" /><br /></p>
+<p><img src="/images/showdowless.jpg"                                     small="0" /><br /></p>
 
 ##  作者简介
 日本文学大师、国民作家，日本政府“紫绶褒章奖”获得者。
